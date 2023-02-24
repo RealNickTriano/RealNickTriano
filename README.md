@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Triano</h1>
-<h3 align="center">A passionate frontend developer from New Jersey.</h3>
+<h3 align="center">A passionate full stack developer from New Jersey.</h3>
 
 - 🔭 I’m currently working on [TaskTracker](https://github.com/RealNickTriano/task-tracker-angular)
 
