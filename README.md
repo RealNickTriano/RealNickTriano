@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, TypeScript, and Java Spring**
 
-- 👨‍💻 All of my projects are available at [https://nicktriano.netlify.app/](https://nicktriano.netlify.app/)
+- 👨‍💻 All of my projects are available at [nicktriano.dev](https://www.nicktriano.dev/)
 
 - 💬 Ask me about **React and Node!**
 
